@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, I'm Hellhand 👋
+Hi there, I'm Binh "Hellhand" Ly 👋
 </h1>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/binh-ly-1b9a6a145">
